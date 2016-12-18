@@ -1,0 +1,27 @@
+{
+  "name": "editable-sources-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Edit any sources during bundling with webpack",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webpack plugin",
+    "bundle",
+    "bundling",
+    "raw",
+    "source code",
+    "editable sources",
+    "edit"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": {
+    "name": "Timofey Kachalov"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "multi-stage-sourcemap": "^0.2.1"
+  }
+}

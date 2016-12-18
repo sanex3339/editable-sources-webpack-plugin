@@ -1,5 +1,7 @@
 #Editable sources plugin for Webpack
 
+[![npm version](https://badge.fury.io/js/editable-sources-webpack-plugin.svg)](https://badge.fury.io/js/editable-sources-webpack-plugin)
+
 ### Installation
 
 Install the package with NPM and add it to your devDependencies:

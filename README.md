@@ -2,6 +2,9 @@
 
 [![npm version](https://badge.fury.io/js/editable-sources-webpack-plugin.svg)](https://badge.fury.io/js/editable-sources-webpack-plugin)
 
+### Overview
+**editable-sources-webpack-plugin** allows to modify source code of any `webpack` bundle during bundling. For example if some `npm` package doesn't have `webpack` plugin, you can use this package inside **editable-sources-webpack-plugin** `callback` function.
+
 ### Installation
 
 Install the package with NPM and add it to your devDependencies:

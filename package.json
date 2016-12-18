@@ -1,6 +1,6 @@
 {
   "name": "editable-sources-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Edit any sources during bundling with webpack",
   "keywords": [
     "webpack",

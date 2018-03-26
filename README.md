@@ -43,6 +43,12 @@ module.exports = {
 };
 ```
 
+### Test
+1. `git clone`
+2. `npm install`
+3. `npm test`
+4. open `dist/bundle.js` to check your upgraded code.
+
 ### API
 #### EditableSourcesWebpackPlugin
 Type: `constructor`

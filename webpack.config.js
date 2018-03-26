@@ -1,6 +1,5 @@
 const path = require('path');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
-const webpack = require('webpack'); //访问内置的插件
 const EditableSourcesWebpackPlugin = require('./index');
 
 module.exports = {
